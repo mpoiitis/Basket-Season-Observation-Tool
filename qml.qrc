@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>Rank.qml</file>
+        <file>RankDelegate.qml</file>
+        <file>Background.qml</file>
+        <file>BackButton.qml</file>
+        <file>Results.qml</file>
+        <file>ResultsDelegate.qml</file>
+        <file>AddResult.qml</file>
+        <file>TeamChooser.qml</file>
+        <file>TeamDelegate.qml</file>
+        <file>AddTeam.qml</file>
+        <file>TeamInfo.qml</file>
+        <file>PlayerDelegate.qml</file>
+        <file>AddPlayer.qml</file>
+    </qresource>
+</RCC>
